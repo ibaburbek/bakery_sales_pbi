@@ -1,5 +1,5 @@
 # bakery_sales_pbi
-Analysis of french bakery daily sales dataset from kaggle [https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales]
+Analysis of french bakery daily sales dataset from [kaggle](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales)
 
 The dataset belongs to a French bakery. The dataset provides the daily transaction details of customers from 2021-01-01 to 2022-09-30.
 Yearly and weekly saisonalities can be observed.
